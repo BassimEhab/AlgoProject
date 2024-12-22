@@ -1,1 +1,1 @@
-HeapSortAlgo is in AlgoProject File.
+HeapSortAlgo is in AlgoProject Folder.
